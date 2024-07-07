@@ -1,8 +1,6 @@
 import os
 os.environ['KMP_DUPLICATE_LIB_OK']='True'
-from glob import glob
 import time
-import cv2
 import numpy as np
 from PIL import Image, ImageOps
 import torch
