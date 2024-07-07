@@ -1,6 +1,6 @@
 # pandas
 # rembg
-# timm
+timm
 # tqdm
 ultralytics
 albumentations
